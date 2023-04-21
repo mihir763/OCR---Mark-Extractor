@@ -5,7 +5,6 @@
 It helps ACPDC to fetch useful data of marksheet into database directly.
 
 WORK FLOW :- 
-
 A software, which will take input in the form of pdf or scanned image, then pre-process it to 
 make it compatible with our trained model and pass it to the implemented model. The trained
 model would extract details (i.e. Math, Science, English, Total Obtained marks and Total
